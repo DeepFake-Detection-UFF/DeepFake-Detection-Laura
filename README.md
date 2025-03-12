@@ -2,11 +2,12 @@
 ## Step 1: Xception
 - Image Model
 - Platform: Kaggle
-- Created the detection algorithm using Xception as the model and see the results;
-- Tried to add Grad-CAM as Explainable AI tool (in progress);
+- V1: Created the detection algorithm using Xception as the model and see the results;
+- V2: Add Grad-CAM as Explainable AI;
 - Conclusion: the model should do better previsions.
+- Next steps: Improvents to achieve better results
 ## Step 2: Liveness Classifier
 - Video Model
 - Platform: Kaggle
-- Created a simple detection script, it should do better previsions
+- V1: Created a simple detection script, it should do better previsions
 - Next steps: Extract faces from video

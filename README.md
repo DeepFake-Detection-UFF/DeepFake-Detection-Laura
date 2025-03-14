@@ -10,4 +10,5 @@
 - Video Model from Kaggle
 - Platform: Kaggle
 - V1: Created a simple detection script, it should do better previsions
-- Next steps: Extract faces from video
+- V2: Apply face extrations using different methods. Improvement in previsions and best results using YOLO.
+- Next steps: Xplainable AI and face ebbeding

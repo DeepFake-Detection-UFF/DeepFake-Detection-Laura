@@ -13,3 +13,9 @@
 - V2: Apply face extrations using different methods. Improvement in previsions and best results using YOLO, MTCNN and SSD
 - V3: Add Xplainable AI, Frequency and Occlusion Sensitivity Analysis
 - Next steps: Improve model and face ebbeding
+## Step 3: Experiments using GradCAM
+- Replicate Hybrid (CNN + PCA + SVM) and GAN models
+- Evaluate model
+- Apply GradCAM in dataset with 6 deepfake generation types
+## Script
+1. Extract face from Faceforensics dataset

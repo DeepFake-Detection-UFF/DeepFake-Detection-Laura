@@ -18,6 +18,7 @@ Part 01
 - Replicate Hybrid (CNN + PCA + SVM) and GAN models
 - Evaluate model
 - Apply GradCAM in dataset with 6 deepfake generation types
+
 Part 02
 - Fix script applying frame struct, not videos
 ## Script

@@ -14,8 +14,11 @@
 - V3: Add Xplainable AI, Frequency and Occlusion Sensitivity Analysis
 - Next steps: Improve model and face ebbeding
 ## Step 3: Experiments using GradCAM
+Part 01
 - Replicate Hybrid (CNN + PCA + SVM) and GAN models
 - Evaluate model
 - Apply GradCAM in dataset with 6 deepfake generation types
+Part 02
+- Fix script applying frame struct, not videos
 ## Script
 1. Extract face from Faceforensics dataset

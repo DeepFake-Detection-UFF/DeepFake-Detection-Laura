@@ -18,8 +18,12 @@ Part 01
 - Replicate Hybrid (CNN + PCA + SVM) and GAN models
 - Evaluate model
 - Apply GradCAM in dataset with 6 deepfake generation types
+
+Part 02
+- Fix script applying frame struct, not videos
 ## Step 4: Experiments using Innvestigate
 Part 01
+- Kaggle Notebook that implements Innvestigate: [LRP_method](https://www.kaggle.com/code/achintyabhat/lrp-method)
 - Add innvestigate to VGG16 model
 - TODO: fix innvestigate in resnet and efficientnet models
 ## Script
